@@ -1,0 +1,11 @@
+﻿<!-- Views/Home/Index.cshtml -->
+@model IEnumerable<System.Security.Claims.Claim>
+
+<h1>User Information</h1>
+
+<ul>
+    @foreach (var claim in Model)
+    {
+        <li>@claim.Type: @claim.Value</li>
+    }
+</ul>

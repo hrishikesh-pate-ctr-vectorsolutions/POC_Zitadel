@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZitadelExample", "ZitadelExample\ZitadelExample.csproj", "{B7495ED5-4DFE-4B69-8C09-41C65C60C05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7495ED5-4DFE-4B69-8C09-41C65C60C05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7495ED5-4DFE-4B69-8C09-41C65C60C05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7495ED5-4DFE-4B69-8C09-41C65C60C05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7495ED5-4DFE-4B69-8C09-41C65C60C05C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79CC0F73-C055-4052-9593-EDDAE7AFC1E9}
+	EndGlobalSection
+EndGlobal
